@@ -80,47 +80,47 @@ We have finalized react framework for developing the frontend for our Know your 
 
 
 ## Project Screenshots
-1. Home Page
+## 1. Home Page
 ![image](https://user-images.githubusercontent.com/91181779/134605982-a125966b-97c6-45e8-a494-b2868d0f5bab.png)
 
-2. About Us Page
+## 2. About Us Page
 ![image](https://user-images.githubusercontent.com/91181779/134605988-f1385c21-a884-41c0-8212-2025bc127f07.png)
 
-3. Contact Us Page
+## 3. Contact Us Page
 ![image](https://user-images.githubusercontent.com/91181779/134606002-9360036d-de70-427d-b4d1-4728813d08d9.png)
 
-4. Terms and Conditions Page
+## 4. Terms and Conditions Page
 ![image](https://user-images.githubusercontent.com/91181779/134606033-770de34c-a7c5-4049-ae17-36c94e02569f.png)
 
-5. Register Page
+## 5. Register Page
 ![image](https://user-images.githubusercontent.com/91181779/134606130-96934a90-a4b1-4e47-8427-c5897c8e68d5.png)
 
-6. Login Page
+## 6. Login Page
 ![image](https://user-images.githubusercontent.com/91181779/134606194-b11c74ff-4735-4900-8468-a3f8c33abb37.png)
 
-7. Facebook API Login Page
+## 7. Facebook API Login Page
 ![image](https://user-images.githubusercontent.com/91181779/134606250-c243fa59-5ddd-4a13-bd9d-9a4eebf5b67c.png)
 
-8. Facebook API Confirmation Page
+## 8. Facebook API Confirmation Page
 ![image](https://user-images.githubusercontent.com/91181779/134606284-f40414bf-c90d-44f0-9d1c-d7ea58e81cdb.png)
 
-9. Dashboard After Facebook API Login
+## 9. Dashboard After Facebook API Login
 ![image](https://user-images.githubusercontent.com/91181779/134606307-817b0e5e-5c80-4f2c-b24f-d77a47893083.png)
 
 
-10. Dashboard
+## 10. Dashboard
 ![image](https://user-images.githubusercontent.com/91181779/134606145-13a7eea0-9bc2-473c-bcf5-f7ddc4a3f47f.png)
 
-11. Add Store Page
+## 11. Add Store Page
 ![image](https://user-images.githubusercontent.com/91181779/134606153-22f3975a-182f-480c-9f24-15f65ab42165.png)
 
-12. List Store
+## 12. List Store
 ![image](https://user-images.githubusercontent.com/91181779/134606158-8b089f17-fac4-495f-bd51-76e699a8c9e2.png)
 
-13. Update Store
+## 13. Update Store
 ![image](https://user-images.githubusercontent.com/91181779/134606163-32843546-e505-429c-8623-b556ddb87c21.png)
 
-14. Search Store
+## 14. Search Store
 ![image](https://user-images.githubusercontent.com/91181779/134606168-d8e77b49-f535-447c-bb8b-fc6396070527.png)
 
 
