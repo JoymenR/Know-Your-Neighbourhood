@@ -1,5 +1,5 @@
 # Know-Your-Neighbourhood
-We have to develop an API for the know your neighbourhood application which provides information about the nearby stores in a given locality. We have to make use of an existing API to provide register and login functionalities for the users. (Facebook, Google Login API) 
+Developed an API for the know your neighbourhood application which provides information about the nearby stores in a given locality.  By making use of an existing API to provide register and login functionalities for the users. (Facebook, Google Login API) 
 
 
 ## Project Background
@@ -7,7 +7,7 @@ Customers can login using existing API and it will fetch their basic information
 
 As most of the users now-a-days use many social media platforms such as Facebook, Instagram, Twitter and also Google. So, we can make use of the particular API and fetch their required information from either of these sites so that the user does not have to enter any details manually and the registration/login process becomes seamless. 
 
-In this case the user will have to provide the username and password of the existing API such as Google, Facebook or Twitter and login with that API then we will get the required details from that particular API and the user will be Registered/ Logged In.
+In this case the user will have to provide the username and password of the existing API such as Google, Facebook or Twitter and login with that API then it will get the required details from that particular API and the user will be Registered/ Logged In.
 
 In total User will be able to register/ login on the portal using an existing API and the portal will consist of the following key pages:
 * Home Page
@@ -73,10 +73,10 @@ Same goes for Login as the user can Login by typing his credentials manually as 
 
 
 ## Spring Boot
-We have finalized spring boot to develop the backend for the Know your neighbourhood application wherein using spring boot we will build all the required functionalities and the API for the application such as registration, login, add store, update store, delete store, and list stores.
+Finalized Spring Boot to develop the backend for the Know your neighbourhood application wherein all the required functionalities and the API for the application such as registration, login, add store, update store, delete store, and list stores will be build using Spring Boot.
 
 ## React.js
-We have finalized react framework for developing the frontend for our Know your neighbourhood application wherein using react we will develop the required forms, for registration, login and add store. We will also develop the frontend to manage the stores and also create the required static pages.
+Finalized React framework for developing the frontend for our Know your neighbourhood application wherein developed the required forms, for registration, login and add store using react. Also developed the frontend to manage the stores and also create the required static pages.
 
 
 ## Project Screenshots
